@@ -16,5 +16,11 @@ grammar_cjkRuby: true
 
 3、MC-》phy
 
+4、flash
+S29GL_128S_01GS_00
+
+
+
+
 
 
