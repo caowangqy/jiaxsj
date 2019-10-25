@@ -18,8 +18,10 @@ grammar_cjkRuby: true
 
 4、flash
 S29GL_128S_01GS_00
-
+1、flash的结构原理图
 ![enter description here](https://raw.githubusercontent.com/caowangqy/jiaxsj-tu/master/小书匠/1571985491673.png)
+
+2、
 
 
 
