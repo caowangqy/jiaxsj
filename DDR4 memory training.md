@@ -19,7 +19,7 @@ grammar_cjkRuby: true
 4、flash
 S29GL_128S_01GS_00
 
-
+![enter description here](https://raw.githubusercontent.com/caowangqy/jiaxsj-tu/master/小书匠/1571985463513.png)
 
 
 
