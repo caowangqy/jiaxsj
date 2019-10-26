@@ -23,6 +23,8 @@ S29GL_128S_01GS_00 这个是pdf文件  spansion  micron flash厂家
 
 2、
 
+3、
+
 
 
 
