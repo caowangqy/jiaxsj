@@ -28,7 +28,7 @@ S29GL_128S_01GS_00 这个是pdf文件  spansion  micron flash厂家
 EAC负责整个EA的实现
 
 write-buffer 512字节
-
+在program之前，存在一个长度为512字节的write buffer，
 
 
 
