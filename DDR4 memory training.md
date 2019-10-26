@@ -24,7 +24,9 @@ S29GL_128S_01GS_00 这个是pdf文件  spansion  micron flash厂家
 2、
 
 3、
-设备逻辑分成两个部分，一个是HIC，另外一个是EAC，EA代表的是整个读，写，擦等步骤，
+设备控制逻辑分成两个部分，一个是HIC，另外一个是EAC，EA代表的是整个读，写，擦等步骤，EAC直接跟memory打交道，而HIC跟主机打交道
+
+
 
 
 
