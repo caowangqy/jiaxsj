@@ -17,7 +17,10 @@ grammar_cjkRuby: true
 	 2）dump 原来的cpld里面的数据方法：
 	      在标题栏中的Device Properities栏的operation中选择FlASH Read and Save，然后点击标题栏的Program按钮，即可完成read back操作
 		  
+     3）Diamond工具即可使用计算机的usb口，也可以使用并口来进行烧录
+		  
 4、xilinx的cpld烧录工具是impact，
-     1）
-	 2）
+     1）里面有一个芯片图案，然后右击，根据选项选择add 
+
+
 	 
